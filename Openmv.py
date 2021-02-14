@@ -1,4 +1,3 @@
-
 import sensor, time, image, pyb
 from pyb import UART
 import json
